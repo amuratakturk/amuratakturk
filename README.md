@@ -1,4 +1,4 @@
-### Hi there 👋, Abdurrahman Murat Akturk
+### Hi there 👋, I am Abdurrahman Murat Akturk
 #### Junior Fullstack Developer
 (https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg)
 
