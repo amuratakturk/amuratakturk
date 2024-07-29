@@ -1,6 +1,8 @@
 ### Hi there 👋, Abdurrahman Murat Akturk
 #### Junior Fullstack Developer
 (https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg)
+
+
 ENG ;
 I am interested in software development, I want to improve myself in this field.
 
