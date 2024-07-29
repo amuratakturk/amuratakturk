@@ -4,8 +4,10 @@
 
 
 ENG ;
-I am interested in software development, I want to improve myself in this field.
 
+
+
+I am interested in software development, I want to improve myself in this field.
 Since my childhood, I have believed that those who want to improve themselves should learn new things throughout their lives.
 Development never stops unless learning stops.
 As a result of this thought,
