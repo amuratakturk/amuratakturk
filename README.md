@@ -1,3 +1,25 @@
+### Hi there 👋, Abdurrahman Murat Akturk
+#### Junior Fullstack Developer
+![Junior Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+ENG ;
+I am interested in software development, I want to improve myself in this field.
+
+Since my childhood, I have believed that those who want to improve themselves should learn new things throughout their lives.
+Development never stops unless learning stops.
+As a result of this thought,
+By participating in Patika +'s Fullstack Web Development Bootcamp, I decided to add the skills I was missing and improve the existing ones.
+And I have no intention of changing this opinion in my lifetime.
+
+TR ;
+Yazılım geliştirmeye ilgim var, bu alanda kendimi geliştirmek istiyorum.
+Çocukluğumdan beri kendini geliştirmek isteyenlerin hayatları boyunca yeni şeyler öğrenmeleri gerektiğine inandım.
+Öğrenme durmadıkça gelişim asla durmaz.
+Bu düşüncenin sonucunda;
+Patika +'nın Fullstack Web Geliştirme Eğitim Kampına katılarak eksik olduğum becerileri eklemeye ve mevcut becerileri geliştirmeye karar verdim.
+Ve ömrüm boyunca bu fikrimi değiştirmeye hiç niyetim yok.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amuratakturk/) 
