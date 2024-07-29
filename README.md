@@ -1,46 +1,18 @@
-### Hi there 👋, I am Abdurrahman Murat Akturk
-#### Junior Fullstack Developer
-![Junior Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-ENG ;
-I am interested in software development, I want to improve myself in this field.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amuratakturk/) 
 
-Since my childhood, I have believed that those who want to improve themselves should learn new things throughout their lives.
-Development never stops unless learning stops.
-As a result of this thought,
-By participating in Patika +'s Fullstack Web Development Bootcamp, I decided to add the skills I was missing and improve the existing ones.
-And I have no intention of changing this opinion in my lifetime.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amuratakturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amuratakturk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amuratakturk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-TR ;
-Yazılım geliştirmeye ilgim var, bu alanda kendimi geliştirmek istiyorum.
-Çocukluğumdan beri kendini geliştirmek isteyenlerin hayatları boyunca yeni şeyler öğrenmeleri gerektiğine inandım.
-Öğrenme durmadıkça gelişim asla durmaz.
-Bu düşüncenin sonucunda;
-Patika +'nın Fullstack Web Geliştirme Eğitim Kampına katılarak eksik olduğum becerileri eklemeye ve mevcut becerileri geliştirmeye karar verdim.
-Ve ömrüm boyunca bu fikrimi değiştirmeye hiç niyetim yok.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amuratakturk&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=amuratakturk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
-
-Skills:  JAVA / REACT / JS / HTML / CSS / POSTGRESQL / GIT
-
-- 🔭 I’m currently working on this page. 
-- 💬 Ask me about From my LINKEDIN account 
-- 📫 How to reach me: From my LINKEDIN account 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amuratakturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amuratakturk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.java.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](https://www.postgresql.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://react.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3.org/html/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3schools.com/css/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git.svg' alt='git' height='40'>](https://git-scm.com/)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amuratakturk)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amuratakturk)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amuratakturk&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=amuratakturk)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
