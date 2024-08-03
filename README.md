@@ -8,19 +8,34 @@ ENG ;
 
 
 I am interested in software development, I want to improve myself in this field.
-Since my childhood, I have believed that those who want to improve themselves should learn new things throughout their lives.
-Development never stops unless learning stops.
-As a result of this thought,
-By participating in Patika +'s Fullstack Web Development Bootcamp, I decided to add the skills I was missing and improve the existing ones.
-And I have no intention of changing this opinion in my lifetime.
+
+
+
+
+Knowledge is power and never misleads;
+I enjoy analytical thinking and see it as an inseparable part of my life.
+I believe that those who want to improve themselves should always add new and up-to-date information to what they already know throughout their lives.
+As long as learning doesn't stop, development never stops.
+As a result of this thought;
+I decided to join Patika+'s Fullstack Web Development Bootcamp to add missing skills and improve existing ones.
+I aim for a good career in this field and plan to put in my best effort to achieve it.
+
+
 
 TR ;
+
 Yazılım geliştirmeye ilgim var, bu alanda kendimi geliştirmek istiyorum.
-Çocukluğumdan beri kendini geliştirmek isteyenlerin hayatları boyunca yeni şeyler öğrenmeleri gerektiğine inandım.
+
+
+
+
+Bilgi güçtür ve asla yanıltmaz;
+Analitik düşünmekten keyif alıyorum ve bunu hayatımın ayrılmaz bir parçası olarak görüyorum.
+Kendini geliştirmek isteyenlerin, hayatları boyunca bildiklerinin üstüne her zaman yeni ve güncel bilgiler eklemesi gerektiğine inanıyorum.
 Öğrenme durmadıkça gelişim asla durmaz.
-Bu düşüncenin sonucunda;
-Patika +'nın Fullstack Web Geliştirme Eğitim Kampına katılarak eksik olduğum becerileri eklemeye ve mevcut becerileri geliştirmeye karar verdim.
-Ve ömrüm boyunca bu fikrimi değiştirmeye hiç niyetim yok.
+Bu düşüncenin bir sonucu olarak;
+Eksik olduğum becerileri eklemek ve mevcut becerileri geliştirmek için Patika+'nın Fullstack Web Geliştirme Eğitim Kampına katılmaya karar verdim.
+Bu alanda iyi bir kariyer hedefliyorum ve bunu başarmak için elimden gelen gayreti göstermeyi planlıyorum.
 
 
 
